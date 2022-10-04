@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harsh Pal.
-- 👀 I’m interested in AI.
+- 👀 I’m interested in AI, it excites me.
 - 🌱 I’m currently learning web development.
 - 📫 How to reach me ... mail me at harshpa324@gmail.com
 
