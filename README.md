@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harsh Pal.
-- 👀 Currently learning new concepts of software development.
+- 👀 Currently learning advanced technologies of web development.
 - 📫 How to reach me ... mail me at harshpa324@gmail.com
 - Apart for programming and stuff, I love playing and watching cricket and football. I also write some songs and poems in my free time.
 
