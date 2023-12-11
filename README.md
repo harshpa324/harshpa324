@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harsh Pal.
 - 👀 Currently learning advanced technologies of web development.
-- 📫 How to reach me ... mail me at contactHp311@gmail.com
+- 📫 How to reach me ... mail me at contacthp311@gmail.com
 - Apart for programming and stuff, I love playing and watching cricket and football. I also write some songs and poems in my free time.
 
 <!---
